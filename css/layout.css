@@ -1,0 +1,24 @@
+header {
+  background-color: #b8dbd9;
+  border: 1px solid black;
+  height: 100px;
+  width: 960px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+article {
+  width: 960px;
+  margin: 0 auto;
+}
+
+aside {
+  width: 200px;
+  height: 600px;
+  background-color: #CC3363;
+  border: 1px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
